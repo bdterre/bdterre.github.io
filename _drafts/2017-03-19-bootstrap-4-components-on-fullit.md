@@ -12,7 +12,7 @@ title2 : New FullIt Theme
 title3 : Created for jekyll
 css: 
 js: 
-bgcolor: ff5a71
+bgcolor: #6bfa94
 keywords: fullit, javascript, css, html, bootstrap, framework
 canonical: https://fullit.github.io
 ---
