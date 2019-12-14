@@ -21,23 +21,23 @@ google_ad_client: ca-pub-9204963049240271
 post_limit: 5
 
 
-title : BD-Chainé
-tagline: Libérés Délivrés
+title : BDTerre
+tagline: On est la liste deter
 author : 
   name : BDE ENSEA
   site: https://bd-chaine.github.io
-  description : I&#39;m a web master interested in communication applied to web marketing.
-  image : social-image.png
-  email : lantoniotrento@gmail.com
-  github : antoniotrento
-  twitter : lantoniotrento
-  facebook: lantoniotrento
-  linkedin: antoniotrento
-  instagram: lantoniotrento
-  pinterest: antoniotrento
+  description : On est une liste ayant l'ambition de devenir 
+  image : logo.jpg
+  email : bdcale@gmail.com
+  github : bdterre
+  twitter : bdterre
+  facebook: bdterre
+  linkedin: bdterre
+  instagram: bdterre
+  pinterest: bdterre
   feedburner : 
 
-twitter_username: lantoniotrento
+twitter_username: bdterre
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
